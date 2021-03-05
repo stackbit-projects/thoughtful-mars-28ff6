@@ -31,10 +31,7 @@ header:
       url: /style-guide
       style: link
   has_secondary_nav: true
-  secondary_nav_links:
-    - label: Get Started
-      url: /pricing
-      style: primary
+  secondary_nav_links: []
   has_anncmnt: true
   anncmnt_content: >-
     Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn
