@@ -141,3 +141,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://thoughtful-mars-28ff6.netlify.app'
