@@ -32,9 +32,6 @@ header:
       style: link
   has_secondary_nav: true
   secondary_nav_links:
-    - label: Contact
-      url: /contact
-      style: link
     - label: Get Started
       url: /pricing
       style: primary
